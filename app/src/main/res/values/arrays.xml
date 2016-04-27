@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--strings for prefrences operations-->
+    <string-array name="regions_list">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North_America</item>
+        <item>South_America</item>
+        <item>Oceania</item>
+    </string-array>
+
+    <!--strings displayed in the settings menu-->
+    <string-array name="regions_list_for_settings">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North America</item>
+        <item>South America</item>
+        <item>Oceania</item>
+    </string-array>
+
+    <!--strings displayed in the settings menu-->
+    <string-array name="guesses_list">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+
+</resources>
